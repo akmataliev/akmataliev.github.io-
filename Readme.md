@@ -1,3 +1,3 @@
 # Deployed Link
 
-https://github.com/akmataliev/akmataliev.github.io-
+https://akmataliev.github.io/
