@@ -51,7 +51,7 @@ body {
   font-size: 14px;
   text-transform: uppercase;
 }
-.nav_burger {
+/* .nav_burger {
   display: flex;
   vertical-align: 25px;
   padding: 1px 20px;
@@ -65,17 +65,17 @@ body {
   width: 115%;
   list-style: none;
   gap: 20px;
-}
-/* .nav_burger {
+} */
+.nav_burger {
   width: 115%;
   display: flex;
   flex-wrap: wrap;
   justify-content: flex-end;
-  gap: 20px;
+  gap: 70px;
   margin: 50px 50px;
-  padding: 0;
+  padding: 20px;
   list-style: none;
-} */
+}
 
 .nav_link {
   display: inline-block;
