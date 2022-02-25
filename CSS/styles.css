@@ -51,7 +51,7 @@ body {
   font-size: 14px;
   text-transform: uppercase;
 }
-/* .nav_burger {
+.nav_burger {
   display: flex;
   vertical-align: 25px;
   padding: 1px 20px;
@@ -65,7 +65,7 @@ body {
   width: 115%;
   list-style: none;
   gap: 20px;
-} */
+}
 .nav_burger {
   width: 115%;
   display: flex;
@@ -73,7 +73,7 @@ body {
   justify-content: flex-end;
   gap: 70px;
   margin: 50px 50px;
-  padding: 20px;
+  padding: 50px;
   list-style: none;
 }
 
